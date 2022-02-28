@@ -2,4 +2,9 @@
 <resources>
     <item name="HomepageEnterButton" type="id">strings</item>
     <item name="nameEditText" type="id">strings</item>
+    <item name="item1" type="id">strings</item>
+    <item name="MostCommonSymptomslistView" type="id">strings</item>
+    <item name="lessCommonSymptomslistView" type="id">strings</item>
+    <item name="seriousSymptomslistView" type="id">strings</item>
+    <item name="preventionListView" type="id">strings</item>
 </resources>
